@@ -1,17 +1,5 @@
 <h1 align="center">MSC Web Development Upskilling Challenge 🚀</h1>
 
-
-<div align="center">
-
-
-![CSS Badge](https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js Badge](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-</div>
-
-
 Welcome to the **MSC Web Development Upskilling Challenge**! 🎉 Whether you're a beginner just starting your journey into web development or an experienced developer looking to level up your skills, this challenge has been designed to guide you through both **frontend** and **backend** web development, offering you hands-on experience and practical knowledge.
 
 
