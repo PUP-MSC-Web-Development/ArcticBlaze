@@ -1,4 +1,4 @@
-# **MSC Web Development Team Upskilling Challenge 🦍**
+# **MSC Web Development Team Upskilling Challenge **
 
 Welcome to the **Microsoft Student Community's Web Development Upskilling Challenge!** This upskilling program is designed for beginners interested in learning web development through both **frontend** and **backend** technologies. Whether you're joining synchronously through study sessions or working asynchronously via this GitHub repository, this challenge will help you master the fundamentals of full-stack development.
 
