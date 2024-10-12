@@ -92,7 +92,7 @@
 ---
 
 
-### Project 2: E-Commerce Website (Phase 1)
+### Project 2: E-Commerce Website
 
 
 **Concept:** User authentication system  
@@ -109,7 +109,7 @@
 ---
 
 
-### Project 3: Product Feedback System (Phase 2)
+### Project 3: Product Feedback System
 
 
 **Concept:** Product reviews and ratings  
@@ -126,7 +126,7 @@
 ---
 
 
-### Project 5: Fully Functioning E-commerce Website (Phase 4)
+### Project 4: Fully Functioning E-commerce Website
 
 
 **Concept:** Complete e-commerce backend  
