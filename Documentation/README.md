@@ -32,18 +32,6 @@ This challenge is built around **Microsoft Learn's Web Development Fundamentals 
 ---
 
 
-## 📑 **Table of Contents**
-
-
-1. [Frontend Development](#frontend-development)
-2. [Backend Development](#backend-development)
-3. [Additional Resources](#additional-resources)
-4. [How to Use This Guide](#how-to-use-this-guide)
-
-
----
-
-
 ## 🖥️ **Frontend Development**
 
 
