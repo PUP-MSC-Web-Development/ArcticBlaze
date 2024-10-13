@@ -1,8 +1,8 @@
+<h1 align="center">Winter's Call❄️</h1>
+
 <div style="align: center;">
   <img src="assets/MSC web development_20241013_135143_0000 (1).png" alt="Banner Placeholder - Welcome Image">
 </div>
-
-<h1 align="center">Winter's Call❄️</h1>
 
 **It's time to lock in!** 
 
