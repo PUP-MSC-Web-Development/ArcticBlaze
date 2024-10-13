@@ -1,4 +1,4 @@
-<h1 align="center">MSC Web Development Upskilling Challenge 🚀</h1>
+<h1 align="center">MSC ArcticBlaze🚀</h1>
 
 <div style="align: center;">
   <img src="assets/2.png" alt="Banner Placeholder - Welcome Image">
