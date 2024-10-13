@@ -1,4 +1,4 @@
-<h1 align="center">Projects</h1>
+<h1 align="center">Let's get started!</h1>
 
 ## 🎨 Frontend Projects
 
