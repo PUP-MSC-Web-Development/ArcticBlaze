@@ -22,11 +22,24 @@ This challenge is built around **Microsoft Learn's Web Development Fundamentals 
 🔗 **[Begin the Journey: Microsoft Learn Web Development Collection](https://learn.microsoft.com/en-us/plans/o3ppsdnmr5oe32?sharingId=4E4EB56BC659F74B)**
 
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://learn.microsoft.com/en-us/plans/o3ppsdnmr5oe32?sharingId=4E4EB56BC659F74B">
     <img src="https://github.com/PUP-MSC-Web-Development/Upskilling-Challenge/blob/main/assets/1.jpg" alt="Microsoft Learn Collection Banner" style="max-width: 100%; height: auto;">
   </a>
 </div>
+
+
+---
+
+
+## 📑 **Table of Contents**
+
+
+1. [Frontend Development](#🖥️-frontend-development)
+2. [Backend Development](#🔧-backend-development)
+3. [Additional Resources](#📖-additional-resources)
+4. [FreeCodeCamp](#🚀-freecodecamp)
+5. [How to Use This Guide](#📖-how-to-use-this-guide)
 
 
 ---
@@ -81,6 +94,26 @@ Supplement your learning journey with these essential tools and concepts, perfec
 | **API Design Best Practices**| Master best practices for designing RESTful APIs.                  | [API Design Principles](https://learn.microsoft.com/en-us/training/modules/rest-api-design/) |
 | **Web Accessibility**      | Ensure your web apps are accessible to all users.                   | [Web Accessibility Guide](https://learn.microsoft.com/en-us/training/modules/accessibility/) |
 | **Performance Optimization**| Learn how to enhance the speed and performance of your web apps.    | [Optimize Performance](https://web.dev/learn/performance/) |
+
+
+---
+
+
+## 🚀 **FreeCodeCamp**
+
+
+A comprehensive platform offering free coding lessons and certifications in various web development topics.
+
+
+| **Topic**                          | **Description**                              | **Resource Link** |
+|------------------------------------|----------------------------------------------|-------------------|
+| **Responsive Web Design**          | Learn the principles of responsive design using HTML and CSS.   | [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) |
+| **Front End Development Libraries**| Learn to harness the power of JS libraries to build dynamic UIs.  | [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) |
+| **Relational Database**            | Learn how to store, retrieve, and manage data efficiently.    | [Relational Database](https://www.freecodecamp.org/learn/relational-database/) |
+| **Back End Development and APIs**  | Create powerful **APIs** to enable communication between applications. | [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) |
+
+
+🔗 **[Learn to code — for free. Build projects. Earn certifications.](https://www.freecodecamp.org/)**
 
 
 ---
