@@ -1,4 +1,4 @@
-<h1 align="center">Let's get started!⚒️</h1>
+<h1 align="center">Winter's Call, it's time to lock in!❄️</h1>
 
 **Are you ready to stand out in the competitive tech landscape?** 
 
