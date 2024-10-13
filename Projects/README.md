@@ -5,7 +5,7 @@
 </div>
 
 div style="align: center;">
-   ## It's time to lock in!** 
+   ## It's time to lock in! 
 </div>
 
 
