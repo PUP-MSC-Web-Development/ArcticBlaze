@@ -4,7 +4,7 @@
   <img src="https://github.com/PUP-MSC-Web-Development/ArcticBlaze/blob/main/assets/MSC%20web%20development_20241013_135143_0000%20(1).png" alt="Banner Placeholder - Welcome Image">
 </div>
 
-div style="align: center;">
+<div style="align: center;">
    ## It's time to lock in! 
 </div>
 
