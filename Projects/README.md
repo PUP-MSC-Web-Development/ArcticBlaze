@@ -5,7 +5,7 @@
 </div>
 
 
-## It's time to lock in!
+## 🐺It's time to lock in!
 
 Building a portfolio during college is essential for students in programming or tech-related fields to showcase their skills and growth, giving them a competitive edge in job applications. The MSC Web Development Upskilling Challenges are designed to support this process, guiding students step by step from beginner to pro levels. By participating, students will develop a strong, comprehensive portfolio that highlights their abilities and prepares them to impress potential employers.
 
