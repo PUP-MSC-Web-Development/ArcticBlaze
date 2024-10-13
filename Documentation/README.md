@@ -51,8 +51,8 @@ This challenge is built around **Microsoft Learn's Web Development Fundamentals 
 Jumpstart your web development skills by mastering the fundamentals of HTML, CSS, and JavaScript. These topics are designed to help you build interactive, responsive, and visually appealing websites.
 
 
-| **Topic**                | **Description**                                                     | **Resource Link**                                                                 |
-|--------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| **Topic**                 | **Description**                                                     | **Resource Link**                                                                  |
+|---------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | **HTML & CSS Basics**     | Learn to build simple, beautiful web pages with HTML and CSS.       | TBA |
 | **JavaScript Fundamentals**| Add interactivity to your sites with JavaScript.                   | TBA |
 | **Responsive Web Design** | Make your websites mobile-friendly using responsive techniques.     | TBA |
@@ -69,8 +69,8 @@ Jumpstart your web development skills by mastering the fundamentals of HTML, CSS
 Ready to move beyond the frontend? Learn how to create and secure powerful web applications and APIs with Node.js, databases, and more.
 
 
-| **Topic**                  | **Description**                                                     | **Resource Link**                                                                  |
-|----------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Topic**                 | **Description**                                                     | **Resource Link**                                                                  |
+|---------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | **Node.js Basics**            | Start building backend applications with Node.js.                   | [Introduction to Node.js](https://learn.microsoft.com/en-us/training/modules/intro-to-nodejs/) |
 | **Building APIs with Node.js**  | Discover how to create a web API using Node.js and Express.        | [Node.js API Development](https://learn.microsoft.com/en-us/training/modules/build-web-api-nodejs-express/) |
 | **Working with Databases**    | Build a basic cloud-native service using PostgreSQL and Node.js        | [Database Integration](https://learn.microsoft.com/en-us/training/modules/cloud-native-build-basic-service/) |
@@ -103,8 +103,8 @@ Supplement your learning journey with these essential tools and concepts, perfec
 A comprehensive platform offering free coding lessons and certifications in various web development topics.
 
 
-| **Topic**                          | **Description**                              | **Resource Link** |
-|------------------------------------|----------------------------------------------|-------------------|
+| **Topic**                 | **Description**                                                     | **Resource Link**                                                                  |
+|---------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | **Responsive Web Design**          | Learn the principles of responsive design using HTML and CSS.   | [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) |
 | **Front End Development Libraries**| Learn to harness the power of JS libraries to build dynamic UIs.  | [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) |
 | **Relational Database**            | Learn how to store, retrieve, and manage data efficiently.    | [Relational Database](https://www.freecodecamp.org/learn/relational-database/) |
