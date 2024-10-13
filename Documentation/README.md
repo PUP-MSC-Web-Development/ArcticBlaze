@@ -53,11 +53,11 @@ Jumpstart your web development skills by mastering the fundamentals of HTML, CSS
 
 | **Topic**                | **Description**                                                     | **Resource Link**                                                                 |
 |--------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| **HTML & CSS Basics**     | Learn to build simple, beautiful web pages with HTML and CSS.       | [Start Learning HTML & CSS](https://learn.microsoft.com/en-us/training/modules/build-simple-website/) |
-| **JavaScript Fundamentals**| Add interactivity to your sites with JavaScript.                    | [Learn JavaScript Basics](https://learn.microsoft.com/en-us/training/paths/web-development-101/)|
-| **Responsive Web Design** | Make your websites mobile-friendly using responsive techniques.     | [Responsive Web Design](https://learn.microsoft.com/en-us/training/modules/responsive-web-design/) |
-| **Working with Forms**    | Build dynamic forms that collect and process user data efficiently. | [Forms in Web Development](https://learn.microsoft.com/en-us/training/modules/working-with-forms/) |
-| **CSS Flexbox & Grid**    | Master advanced layouts with Flexbox and Grid.                      | [CSS Layouts with Flexbox & Grid](https://learn.microsoft.com/en-us/training/modules/create-layouts-css-grid-flexbox/) |
+| **HTML & CSS Basics**     | Learn to build simple, beautiful web pages with HTML and CSS.       | TBA |
+| **JavaScript Fundamentals**| Add interactivity to your sites with JavaScript.                   | TBA |
+| **Responsive Web Design** | Make your websites mobile-friendly using responsive techniques.     | TBA |
+| **Working with Forms**    | Build dynamic forms that collect and process user data efficiently. | TBA |
+| **CSS Flexbox & Grid**    | Master advanced layouts with Flexbox and Grid.                      | TBA |
 
 
 ---
