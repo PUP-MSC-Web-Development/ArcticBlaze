@@ -1,7 +1,7 @@
 <h1 align="center">Winter's Call❄️</h1>
 
 <div style="align: center;">
-  <img src="[assets/MSC web development_20241013_135143_0000 (1).png](https://github.com/PUP-MSC-Web-Development/ArcticBlaze/blob/main/assets/MSC%20web%20development_20241013_135143_0000%20(1).png)" alt="Banner Placeholder - Welcome Image">
+  <img src="https://github.com/PUP-MSC-Web-Development/ArcticBlaze/blob/main/assets/MSC%20web%20development_20241013_135143_0000%20(1).png" alt="Banner Placeholder - Welcome Image">
 </div>
 
 **It's time to lock in!** 
