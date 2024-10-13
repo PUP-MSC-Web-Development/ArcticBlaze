@@ -70,8 +70,8 @@ You can choose between two learning modes based on your preference:
 
 1. **Clone the Repository**: Get started by downloading the project to your local machine.
    ```bash
-   git clone https://github.com/PUP-MSC-Web-Development/Upskilling-Challenge.git
-   cd Upskilling-Challenge
+   git clone https://github.com/PUP-MSC-Web-Development/ArcticBlaze.git
+   cd ArcticBlaze
    
 2. **Explore the Documentation**: 📖 Browse the resources in the **Documentation** folder. Here, you’ll find instructions on setting up your development environment, working with Git, and best practices for writing clean code.
 
