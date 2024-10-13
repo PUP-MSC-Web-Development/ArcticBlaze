@@ -79,7 +79,7 @@ You can choose between two learning modes based on your preference:
 3. **Choose a Project**: 📝 Select a project that matches your current skill level and learning goals. Projects are divided into **Frontend** and **Backend** categories inside the **Projects** folder.
 
 
-4. **Join Study Sessions**: 📅 Find and register for upcoming live sessions by checking the schedule in the **Study Sessions** folder. These sessions are a great way to receive guidance and stay motivated.
+4. **Join Study Sessions**: 📅 Everyone is encouraged to join our **Study Sessions**. These sessions are a great way to receive guidance and stay motivated.
 
 
 5. **Submit Your Work**: 📤 Once you’ve completed a project, submit your work via a pull request (PR) to the repository. Your work will be reviewed, and feedback will be provided to help you improve.
