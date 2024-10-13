@@ -1,7 +1,7 @@
 <h1 align="center">MSC Web Development Upskilling Challenge 🚀</h1>
 
 <div style="align: center;">
-  <img src="" alt="Banner Placeholder - Welcome Image">
+  <img src="assets/2.png" alt="Banner Placeholder - Welcome Image">
 </div>
 
 Welcome to the **MSC Web Development Upskilling Challenge**! 🎉 Whether you're a beginner just starting your journey into web development or an experienced developer looking to level up your skills, this challenge has been designed to guide you through both **frontend** and **backend** web development, offering you hands-on experience and practical knowledge.
