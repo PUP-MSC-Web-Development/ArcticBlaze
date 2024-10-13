@@ -71,10 +71,10 @@ Ready to move beyond the frontend? Learn how to create and secure powerful web a
 
 | **Topic**                  | **Description**                                                     | **Resource Link**                                                                  |
 |----------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| **Node.js Basics**          | Start building backend applications with Node.js.                   | [Introduction to Node.js](https://learn.microsoft.com/en-us/training/modules/intro-to-nodejs/) |
-| **Building APIs with Node.js**| Discover how to create a web API using Node.js and Express.        | [Node.js API Development](https://learn.microsoft.com/en-us/training/modules/build-web-api-nodejs-express/) |
-| **Working with Databases**  | Build a basic cloud-native service using PostgreSQL and Node.js        | [Database Integration](https://learn.microsoft.com/en-us/training/modules/cloud-native-build-basic-service/) |
-| **Route management in Node.js**| Learn how to set up a Node.js API with multiple routes.          | [Route management](https://learn.microsoft.com/en-us/training/modules/node-web-routes/) |
+| **Node.js Basics**            | Start building backend applications with Node.js.                   | [Introduction to Node.js](https://learn.microsoft.com/en-us/training/modules/intro-to-nodejs/) |
+| **Building APIs with Node.js**  | Discover how to create a web API using Node.js and Express.        | [Node.js API Development](https://learn.microsoft.com/en-us/training/modules/build-web-api-nodejs-express/) |
+| **Working with Databases**    | Build a basic cloud-native service using PostgreSQL and Node.js        | [Database Integration](https://learn.microsoft.com/en-us/training/modules/cloud-native-build-basic-service/) |
+| **Route management in Node.js**  | Learn how to set up a Node.js API with multiple routes.          | [Route management](https://learn.microsoft.com/en-us/training/modules/node-web-routes/) |
 
 
 ---
