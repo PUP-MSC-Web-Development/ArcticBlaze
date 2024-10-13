@@ -2,9 +2,7 @@
 
 **It's time to lock in!** 
 
-Creating a portfolio while you're still in college—especially in programming or tech-related fields—is essential for showcasing your skills and projects. It provides tangible proof of your progress and demonstrates your growth as you learn new technologies and techniques. A well-crafted portfolio can set you apart from other candidates, strengthening your job applications and making a strong case for your potential. Many see a portfolio as a personal reflection of your abilities, experience, and interests, offering a snapshot of what you can bring to the table.
-
-To help you along this journey, the MSC Web Development Upskilling Challenges are structured to guide you through building your skills, knowledge, and experiences, one step at a time. These challenges, from beginner to pro levels, will help you meticulously develop your portfolio, ensuring you gain the competencies needed for success. By the end, you’ll have a well-rounded, professional portfolio ready to impress future employers and showcase your comprehensive skill set.
+Building a portfolio during college is essential for students in programming or tech-related fields to showcase their skills and growth, giving them a competitive edge in job applications. The MSC Web Development Upskilling Challenges are designed to support this process, guiding students step by step from beginner to pro levels. By participating, students will develop a strong, comprehensive portfolio that highlights their abilities and prepares them to impress potential employers.
 
 
 ---
