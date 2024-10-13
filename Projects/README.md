@@ -1,6 +1,6 @@
-<h1 align="center">Winter's Call, it's time to lock in!❄️</h1>
+<h1 align="center">Winter's Call❄️</h1>
 
-**Are you ready to stand out in the competitive tech landscape?** 
+**It's time to lock in!** 
 
 Creating a portfolio while you're still in college—especially in programming or tech-related fields—is essential for showcasing your skills and projects. It provides tangible proof of your progress and demonstrates your growth as you learn new technologies and techniques. A well-crafted portfolio can set you apart from other candidates, strengthening your job applications and making a strong case for your potential. Many see a portfolio as a personal reflection of your abilities, experience, and interests, offering a snapshot of what you can bring to the table.
 
