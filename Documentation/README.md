@@ -89,9 +89,8 @@ Supplement your learning journey with these essential tools and concepts, perfec
 | **Topic**                 | **Description**                                                     | **Resource Link**                                                                  |
 |---------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | **Git & GitHub Basics**    | Manage your code with version control using Git and GitHub.         | [Learn Git & GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) |
-| **JavaScript ES6+**        | Dive into modern JavaScript features introduced in ES6 and beyond.  | [Introduction to ES6](https://learn.microsoft.com/en-us/training/modules/javascript-ecmascript6/) |
-| **API Design Best Practices**| Master best practices for designing RESTful APIs.                  | [API Design Principles](https://learn.microsoft.com/en-us/training/modules/rest-api-design/) |
-| **Web Accessibility**      | Ensure your web apps are accessible to all users.                   | [Web Accessibility Guide](https://learn.microsoft.com/en-us/training/modules/accessibility/) |
+| **Fundamentals of Responsible Generative AI**        | Describe an overall process for responsible generative AI  | [Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/) |
+| **Web Accessibility**      | Ensure your web apps are accessible to all users.                   | [Web Accessibility Guide](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/) |
 | **Performance Optimization**| Learn how to enhance the speed and performance of your web apps.    | [Optimize Performance](https://web.dev/learn/performance/) |
 
 
