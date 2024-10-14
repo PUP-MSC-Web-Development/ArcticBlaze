@@ -65,29 +65,6 @@ You can choose between two learning modes based on your preference:
 ---
 
 
-## 🛠️ **How to Get Started**
-
-
-1. **Clone the Repository**: Get started by downloading the project to your local machine.
-   ```bash
-   git clone https://github.com/PUP-MSC-Web-Development/ArcticBlaze.git
-   cd ArcticBlaze
-   
-2. **Explore the Documentation**: 📖 Browse the resources in the **Documentation** folder. Here, you’ll find instructions on setting up your development environment, working with Git, and best practices for writing clean code.
-
-
-3. **Choose a Project**: 📝 Select a project that matches your current skill level and learning goals. Projects are divided into **Frontend** and **Backend** categories inside the **Projects** folder.
-
-
-4. **Join Study Sessions**: 📅 Everyone is encouraged to join our **Study Sessions**. These sessions are a great way to receive guidance and stay motivated.
-
-
-5. **Submit Your Work**: 📤 Once you’ve completed a project, submit your work via a pull request (PR) to the repository. Your work will be reviewed, and feedback will be provided to help you improve.
-
-
----
-
-
 ## 🏆 **Certification Pathways**
 As you progress through the challenge, completing key projects will unlock the opportunity to earn certifications that demonstrate your skills in web development. Here's what you need to know:
 
@@ -95,33 +72,12 @@ As you progress through the challenge, completing key projects will unlock the o
 ### Frontend Developer Certification:
 - Complete the required frontend projects, including building a responsive portfolio, interactive web pages, and working with JavaScript.
 ### Backend Developer Certification:
-- Complete backend-focused projects, like building a RESTful API, handling data with MongoDB, and implementing authentication with **JWT** or **OAuth**.
+- Complete backend-focused projects, like building a RESTful API, handling data with MongoDB, and implementing authentication.
 ### Full Stack Developer Certification:
 - Complete both frontend and backend tracks to earn this certification. You'll have built full-stack applications that demonstrate your ability to handle both the client-side and server-side logic.
 
 
 Once you've completed all required projects in either the frontend, backend, or both, you'll be eligible to receive a certificate that you can showcase on your portfolio, LinkedIn, or resume.
-
-
----
-
-
-## 💬 **Community & Support**
-Throughout the challenge, you’ll have access to a supportive community of learners, mentors, and experienced developers. Join our **Discord channel** or **Microsoft Teams group** to:
-
-
-- Ask questions and get help when you're stuck.
-- Share your progress and get feedback on your projects.
-- Network with other developers and build your professional connections.
-
-
----
-
-
-## 🤝 Contributions
-
-
-We encourage learners to contribute to the challenge! If you’d like to share your own resources, report bugs, or suggest new projects, feel free to submit a pull request or open an issue. We’re always looking for ways to improve the challenge for everyone.
 
 
 ---
@@ -134,4 +90,4 @@ Make sure to regularly check the **Announcements** section for updates on new pr
 ---
 
 
-Let’s start building! 🚀
+Happy coding! 🚀
