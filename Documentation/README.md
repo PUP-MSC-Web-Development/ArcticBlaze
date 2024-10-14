@@ -56,7 +56,7 @@ Jumpstart your web development skills by mastering the fundamentals of HTML, CSS
 | **HTML & CSS Basics**     | Learn to build simple, beautiful web pages with HTML and CSS.       | [Start Learning HTML & CSS](https://learn.microsoft.com/en-us/training/modules/build-simple-website/) |
 | **JavaScript Fundamentals**| Add interactivity to your sites with JavaScript.                   | [Learn JavaScript Basics](https://learn.microsoft.com/en-us/training/paths/web-development-101/)|
 | **Responsive Web Design** | Make your websites mobile-friendly using responsive techniques.     | [Watch Responsive Wed Design](https://learn.microsoft.com/en-us/shows/visual-studio-connect-event-2014/814) |
-| **Working with Forms**    | Build dynamic forms that collect and process user data efficiently. | [Read]() |
+| **Working with Forms**    | Build dynamic forms that collect and process user data efficiently. | [Study Basic Forms](https://www.freecodecamp.org/news/how-to-use-html-forms/) |
 | **CSS Flexbox & Grid**    | Master advanced layouts with Flexbox and Grid.                      | [Read Flexbox](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/bg124109(v=vs.85)) & [Read CSS Grid](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/css/grid) |
 
 
