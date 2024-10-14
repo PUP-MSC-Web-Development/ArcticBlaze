@@ -19,11 +19,11 @@ Each module is packed with **practical examples** and **hands-on projects** to e
 This challenge is built around **Microsoft Learn's Web Development Fundamentals Collection**—a series of interactive tutorials and hands-on exercises. You’ll gain real-time guidance, enhance your understanding, and apply what you learn to real projects.
 
 
-🔗 **[Begin the Journey: Microsoft Learn Web Development Collection](https://learn.microsoft.com/en-us/plans/o3ppsdnmr5oe32?sharingId=4E4EB56BC659F74B)**
+🔗 **[Begin the Journey: Microsoft Learn Web Development Collection](https://learn.microsoft.com/plans/o3ppsdnmr5oe32?wt.mc_id=studentamb_412650)**
 
 
 <div align="center">
-  <a href="https://learn.microsoft.com/en-us/plans/o3ppsdnmr5oe32?sharingId=4E4EB56BC659F74B">
+  <a href="https://learn.microsoft.com/plans/o3ppsdnmr5oe32?wt.mc_id=studentamb_412650">
     <img src="https://github.com/PUP-MSC-Web-Development/Upskilling-Challenge/blob/main/assets/1.jpg" alt="Microsoft Learn Collection Banner" style="max-width: 100%; height: auto;">
   </a>
 </div>
