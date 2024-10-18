@@ -1,6 +1,6 @@
 <h1 align="center">🌐 MSC Web Development Upskilling Challenge</h1>
 
-<div style="align: center; margin-bottom: 10px;">
+<div style="align: center; margin-bottom: 10;">
   <img src="../assets/documentation banner.png" alt="Banner Placeholder - Welcome Image">
 </div>
 
