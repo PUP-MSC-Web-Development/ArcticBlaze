@@ -1,7 +1,7 @@
 <h1 align="center">🌐 MSC Web Development Upskilling Challenge</h1>
 
 <div style="align: center;">
-  <img src="assets/documentation banner.png" alt="Banner Placeholder - Welcome Image">
+  <img src="../assets/documentation banner.png" alt="Banner Placeholder - Welcome Image">
 </div>
 
 Welcome to the Documentation Hub for the **MSC Web Development Upskilling Challenge**! Here, you'll find a well-curated collection of resources from **Microsoft Learn** and other valuable materials designed to enhance your skills in both **frontend** and **backend development**. This challenge is designed to help you build a solid foundation in web development. Ready to dive in? Follow the structured learning path and make the most out of this journey! 🚀
