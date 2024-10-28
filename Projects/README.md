@@ -39,8 +39,6 @@ Building a portfolio during college is essential for students in programming or 
 
 - **HTML/CSS:** For building the structure and style of the websites.
 - **JavaScript:** For adding interactivity and dynamic features to the applications.
-- **Responsive Design Techniques:** To ensure optimal viewing experiences across various devices.
-- **Version Control:** Utilizing Git and GitHub for managing project versions and collaboration.
 
 ---
 
