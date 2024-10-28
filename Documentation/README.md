@@ -24,7 +24,7 @@ This challenge is built around **Microsoft Learn's Web Development Fundamentals 
 
 <div align="center">
   <a href="https://learn.microsoft.com/plans/o3ppsdnmr5oe32?wt.mc_id=studentamb_412650">
-    <img src="https://github.com/PUP-MSC-Web-Development/Upskilling-Challenge/blob/main/assets/1.jpg" alt="Microsoft Learn Collection Banner" style="max-width: 100%; height: auto;">
+    <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Microsoft Learn Collection Banner" style="max-width: 100%; height: auto;">
   </a>
 </div>
 
