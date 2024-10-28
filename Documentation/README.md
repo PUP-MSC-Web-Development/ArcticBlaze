@@ -135,4 +135,4 @@ Take your time, practice regularly, and don’t hesitate to revisit these resour
 ## 🎉 **Happy Learning!**
 
 
-Remember, this is a continuous journey of growth and learning. If you need any help, feel free to reach out to the team leads or participate in our study sessions. If ever you missed those, you can watch them on our [**Documented Recordings**](../Documentation/Recording)
+Remember, this is a continuous journey of growth and learning. If you need any help, feel free to reach out to the team leads or participate in our study sessions. If ever you missed those, you can watch them on our [**Documented Recordings**](../Documentation/Recording)▶️
