@@ -4,11 +4,7 @@
   <img src="assets/2.png" alt="Banner Placeholder - Welcome Image">
 </div>
 
-
-Welcome to the **MSC Web Development Upskilling Challenge**! 🎉 Whether you're a beginner just starting your journey into web development or an experienced developer looking to level up your skills, this challenge has been designed to guide you through both **frontend** and **backend** web development, offering you hands-on experience and practical knowledge.
-
-By the end of this program, you will have built a variety of projects, improved your problem-solving abilities, and learned to work with industry-standard tools and technologies. Plus, you can earn certificates to showcase your accomplishments!
-
+This challenge is tailored for both beginners and experienced developers, providing a comprehensive guide through frontend and backend web development. Participants will gain hands-on experience and practical knowledge by building various projects, enhancing their problem-solving skills, and learning to work with industry-standard tools and technologies. By the end of the program, you'll also have the opportunity to earn certificates to showcase your achievements!
 
 ---
 
