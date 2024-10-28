@@ -1,7 +1,7 @@
 <h1 align="center">ArticBlaze: Project 2 - E-Commerce Website (User Authentication System)</h1>
 
 <div style="align: center;">
-  <img src="https://github.com/PUP-MSC-Web-Development/ArcticBlaze/blob/main/assets/MSC%20web%20development_20241013_185749_0000.png" alt="Banner Placeholder - E-Commerce User Authentication Image">
+  <img src="https://i.ytimg.com/vi/eeHqZeJ9Vqc/maxresdefault.jpg" alt="Banner Placeholder - E-Commerce User Authentication Image">
 </div>
 
 ## 🚀 Why This Project is Important to Learn
