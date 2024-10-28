@@ -116,6 +116,7 @@ A comprehensive platform offering free coding lessons and certifications in vari
 
 ---
 
+<!--
 
 ## 📖 **How to Use This Guide**
 
@@ -129,7 +130,7 @@ Take your time, practice regularly, and don’t hesitate to revisit these resour
 
 
 ---
-
+-->
 
 ## 🎉 **Happy Learning!**
 
