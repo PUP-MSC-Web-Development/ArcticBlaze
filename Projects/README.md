@@ -21,13 +21,13 @@ Building a portfolio during college is essential for students in programming or 
 
 ## 🗂️ Project Structure
 
-- **/frontend:** Contains all frontend-related projects and resources.
+- **Frontend:** Contains all frontend-related projects and resources.
   - **Project 1 - Fan Website**
   - **Project 2 - Magazine Website**
   - **Project 3 - E-commerce Website**
   - **Project 4 - Professional Portfolio**
   
-- **/backend:** Contains all backend-related projects and resources.
+- **Backend:** Contains all backend-related projects and resources.
   - **Project 1 - Web-Based To-Do List Application**
   - **Project 2 - E-Commerce Website**
   - **Project 3 - Product Feedback System**
