@@ -1,17 +1,5 @@
 <h1 align="center">ArticBlaze: Project 1 - Fan Website</h1>
 
-**Concept:** Showcase something you love (a pet, idol, etc.)  
-**Requirements:**
-- 📱 **Responsive Design:** Use media queries for various screen sizes
-- 🎨 **Theme Customization:** CSS variables for colors and fonts
-- ✍️ **Typography:** Use web fonts (e.g., Google Fonts)
-- 🖼️ **Image Optimization:** Improve load time
-
-- **Difficulty:** ★★☆☆☆
-
-
----
-
 ## 🚀 Why This Project is Important to Learn
 
 The Fan Website is a great starting point for learning web development as it combines creativity and essential technical skills. You'll build a personalized website around something you're passionate about, which makes the learning process engaging and fun.  
@@ -42,6 +30,15 @@ The Fan Website is a great starting point for learning web development as it com
 
 ---
 
-## 📊 Difficulty Level: ★★☆☆☆
+## 📊 Project Details
 
+**Concept:** Showcase something you love (a pet, idol, etc.)  
+
+**Requirements:**
+- 📱 **Responsive Design:** Use media queries for various screen sizes
+- 🎨 **Theme Customization:** CSS variables for colors and fonts
+- ✍️ **Typography:** Use web fonts (e.g., Google Fonts)
+- 🖼️ **Image Optimization:** Improve load time
+
+**Difficulty:** ★★☆☆☆
 
