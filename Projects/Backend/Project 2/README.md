@@ -1,4 +1,4 @@
-<h1 align="center">Project 2 - E-Commerce Website (User Authentication System)</h1>
+<h1 align="center">Project 2 - E-Commerce Website (User Authentication System) 🛒</h1>
 
 <div style="align: center;">
   <img src="https://i.ytimg.com/vi/eeHqZeJ9Vqc/maxresdefault.jpg" alt="Banner Placeholder - E-Commerce User Authentication Image">
