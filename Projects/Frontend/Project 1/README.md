@@ -1,4 +1,4 @@
-### Project 1: Fan Website
+## Project 1: Fan Website
 
 
 **Concept:** Showcase something you love (a pet, idol, etc.)  
