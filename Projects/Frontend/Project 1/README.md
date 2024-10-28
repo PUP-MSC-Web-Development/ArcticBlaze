@@ -1,5 +1,4 @@
-# Project 1: Fan Website
-
+<h1 align="center">ArticBlaze: Project 1 - Fan Website</h1>
 
 **Concept:** Showcase something you love (a pet, idol, etc.)  
 **Requirements:**
@@ -8,17 +7,10 @@
 - ✍️ **Typography:** Use web fonts (e.g., Google Fonts)
 - 🖼️ **Image Optimization:** Improve load time
 
-
-**Difficulty:** ★★☆☆☆
+- **Difficulty:** ★★☆☆☆
 
 
 ---
-
-<h1 align="center">ArticBlaze: Project 1 - Fan Website</h1>
-
-<div style="align: center;">
-  <img src="https://github.com/PUP-MSC-Web-Development/ArcticBlaze/blob/main/assets/MSC%20web%20development_20241013_185749_0000.png" alt="Banner Placeholder - Welcome Image">
-</div>
 
 ## 🚀 Why This Project is Important to Learn
 
