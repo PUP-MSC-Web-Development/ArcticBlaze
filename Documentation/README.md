@@ -134,7 +134,7 @@ Take your time, practice regularly, and don’t hesitate to revisit these resour
 
 
 ## ▶️ **Study Sesh Recording**
-If ever you missed those, you can watch them on our [**Documented Recordings**](../Documentation/Recording)
+If ever you missed a study session, you can watch them on our [**Documented Recordings**](../Documentation/Recording)
 
 ---
 
