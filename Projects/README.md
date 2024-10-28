@@ -55,16 +55,4 @@ Building a portfolio during college is essential for students in programming or 
 
 ---
 
-## 📅 Timeline
-
-This project is part of the MSC Web Development Upskilling Challenges, which is scheduled from [Start Date] to [End Date]. Make sure to keep track of deadlines and milestones to ensure timely completion of your projects.
-
----
-
-## 📞 Contact Information
-
-For any questions or feedback regarding this project, feel free to reach out to [Your Name] at [Your Email] or connect with us on [Your LinkedIn Profile].
-
----
-
 By participating in this project, you're taking a significant step in your web development journey. Good luck, and let’s make this an exciting experience together!
