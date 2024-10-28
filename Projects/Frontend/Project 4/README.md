@@ -1,4 +1,4 @@
-<h1 align="center">ArticBlaze: Project 4 - Professional Portfolio</h1>
+<h1 align="center">Project 4 - Professional Portfolio 📁</h1>
 
 <div style="align: center;">
   <img src="https://lh3.googleusercontent.com/WAqReJm6U5ztlE4KvGZ04WjhxMtZHX_en8-5K0RDJAbvtaLfc_I3Eb0LIVgP-r0JfIl6LDGexwwq5y7OhXrmG90HRVnx9pP4djNnmIr8K935Q6Xpx-K55CSUtjry6SvFSR3E_fiw" alt="Banner Placeholder - Professional Portfolio Image">
