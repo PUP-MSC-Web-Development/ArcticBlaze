@@ -1,5 +1,9 @@
 <h1 align="center">ArticBlaze: Project 1 - Fan Website</h1>
 
+<div style="align: center;">
+  <img src="https://images.unsplash.com/photo-1600614518987-f9c081f69e0e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner Placeholder - Welcome Image">
+</div>
+
 ## 🚀 Why This Project is Important to Learn
 
 The Fan Website is a great starting point for learning web development as it combines creativity and essential technical skills. You'll build a personalized website around something you're passionate about, which makes the learning process engaging and fun.  
