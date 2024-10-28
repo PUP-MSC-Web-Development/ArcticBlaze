@@ -57,7 +57,7 @@ You can choose between two learning modes based on your preference:
 - **Live Coding Sessions**: Attend live coding sessions and workshops via **Microsoft Teams** for interactive learning with real-time feedback. Participate in Q&A sessions, coding challenges, and peer reviews.
 - **Study Groups**: Collaborate with fellow learners in group study sessions to share knowledge and solve coding challenges together.
 
-/*
+<!--
 ---
 
 
@@ -75,7 +75,7 @@ As you progress through the challenge, completing key projects will unlock the o
 
 Once you've completed all required projects in either the frontend, backend, or both, you'll be eligible to receive a certificate that you can showcase on your portfolio, LinkedIn, or resume.
 
-*/
+-->
 ---
 
 
