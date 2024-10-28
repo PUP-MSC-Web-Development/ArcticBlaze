@@ -1,4 +1,4 @@
-<h1 align="center">ArticBlaze: Project 1 - Fan Website</h1>
+<h1 align="center">Project 1 - Fan Website 🪭</h1>
 
 <div style="align: center;">
   <img src="https://images.unsplash.com/photo-1635862654193-9769041d61c4?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner Placeholder - Welcome Image">
