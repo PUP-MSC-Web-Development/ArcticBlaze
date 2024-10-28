@@ -1,4 +1,4 @@
-<h1 align="center">ArticBlaze: Project 1 - Web-Based To-Do List Application</h1>
+<h1 align="center">Project 1 - Web-Based To-Do List Application 📃</h1>
 
 <div style="align: center;">
   <img src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner Placeholder - To-Do List Application Image">
