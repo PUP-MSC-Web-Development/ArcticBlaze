@@ -1,4 +1,4 @@
-<h1 align="center">ArticBlaze: Project 3 - E-commerce Website</h1>
+<h1 align="center">Project 3 - E-commerce Website</h1>
 
 <div style="align: center;">
   <img src="https://xurpasenterprise.com/wp-content/uploads/2022/04/shopee-and-lazada.jpg" alt="Banner Placeholder - E-commerce Website Image">
