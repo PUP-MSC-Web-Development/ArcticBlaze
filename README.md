@@ -1,7 +1,7 @@
 <h1 align="center">MSC ArcticBlaze🚀</h1>
 
 <div style="align: center;">
-  <img src="assets/2.png" alt="Banner Placeholder - Welcome Image">
+  <img src="assets/MSC web development_20241030_201600_0000.png" alt="Banner Placeholder - Welcome Image">
 </div>
 
 This challenge is tailored for both beginners and experienced developers, providing a comprehensive guide through frontend and backend web development. Participants will gain hands-on experience and practical knowledge by building various projects, enhancing their problem-solving skills, and learning to work with industry-standard tools and technologies. By the end of the program, you'll also have the opportunity to earn certificates to showcase your achievements!
