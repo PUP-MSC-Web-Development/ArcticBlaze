@@ -1,10 +1,10 @@
-<h1 align="center">🌐 MSC Web Development Upskilling Challenge</h1>
+
 
 <div style="align: center;">
   <img src="../assets/documentation banner.png" alt="Banner Placeholder - Welcome Image">
 </div>
 
-Welcome to the Documentation Hub for the **MSC Web Development Upskilling Challenge**! Here, you'll find a well-curated collection of resources from **Microsoft Learn** and other valuable materials designed to enhance your skills in both **frontend** and **backend development**. This challenge is designed to help you build a solid foundation in web development. Ready to dive in? Follow the structured learning path and make the most out of this journey! 🚀
+Welcome to the Documentation Hub for **ArcticBlaze**! Here, you'll find a well-curated collection of resources from **Microsoft Learn** and other valuable materials designed to enhance your skills in both **frontend** and **backend development**. This challenge is designed to help you build a solid foundation in web development. Ready to dive in? Follow the structured learning path and make the most out of this journey! 🚀
 
 
 Each module is packed with **practical examples** and **hands-on projects** to ensure you're not just learning theory but also applying your knowledge in **real-world scenarios**. Let's get coding and bring your ideas to life! 💻🔥
@@ -27,19 +27,6 @@ This challenge is built around **Microsoft Learn's Web Development Fundamentals 
     <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Microsoft Learn Collection Banner" style="max-width: 100%; height: auto;">
   </a>
 </div>
-
-
----
-
-
-## 📑 **Table of Contents**
-
-
-1. [Frontend Development](#🖥️-frontend-development)
-2. [Backend Development](#🔧-backend-development)
-3. [Additional Resources](#📖-additional-resources)
-4. [FreeCodeCamp](#🚀-freecodecamp)
-5. [How to Use This Guide](#📖-how-to-use-this-guide)
 
 
 ---
