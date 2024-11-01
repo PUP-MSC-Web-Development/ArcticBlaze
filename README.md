@@ -1,14 +1,18 @@
-<h1 align="center">MSC ArcticBlaze🚀</h1>
+<h1 align="center">MSC ArcticBlaze 🎃</h1>
 
 <div style="align: center;">
   <img src="assets/MSC web development_20241030_201600_0000.png" alt="Banner Placeholder - Welcome Image">
 </div>
 
-This challenge is tailored for both beginners and experienced developers, providing a comprehensive guide through frontend and backend web development. Participants will gain hands-on experience and practical knowledge by building various projects, enhancing their problem-solving skills, and learning to work with industry-standard tools and technologies. By the end of the program, you'll also have the opportunity to earn certificates to showcase your achievements!
+👻 Traverse the vast and daunting arctic landscape of web development with determination and passion to blaze forward. This program is crafted for both beginners and experienced developers, offering a comprehensive guide and curated resources through the realms of frontend and backend web development.
+
+Participants will gain hands-on experience and practical knowledge by building various projects, enhancing their problem-solving skills, and learning to work with industry-standard tools and technologies.
+
+## 🔔 Note: The projects feature of this repository will be opened after the first workshop.
 
 ---
 
-
+<!--
 ## 🔍 **Challenge Overview**
 
 
@@ -41,6 +45,7 @@ The challenge is structured to provide both asynchronous and synchronous learnin
 
 
 ---
+-->
 
 
 ## 📚 **Learning Tracks**
@@ -80,7 +85,7 @@ Once you've completed all required projects in either the frontend, backend, or 
 
 
 ## 📩 **Stay Updated**
-Make sure to regularly check the **Announcements** section for updates on new projects, additional resources, and live session schedules. Don’t miss out on new opportunities to enhance your skills!
+Make sure to regularly check our official messenger for updates on new projects, additional resources, and live session schedules. Don’t miss out on new opportunities to enhance your skills!
 
 
 ---
