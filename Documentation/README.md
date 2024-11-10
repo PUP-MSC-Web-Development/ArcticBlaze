@@ -7,7 +7,7 @@
 Welcome to the Documentation Hub for **ArcticBlaze**! Here, you'll find a well-curated collection of resources from **Microsoft Learn** and other valuable materials designed to enhance your skills in both **frontend** and **backend development**. This challenge is designed to help you build a solid foundation in web development. Ready to dive in? Follow the structured learning path and make the most out of this journey! 🚀
 
 
-Each module is packed with **practical examples** and **hands-on projects** to ensure you're not just learning theory but also applying your knowledge in **real-world scenarios**. Let's get coding and bring your ideas to life! 💻🔥
+<!-- Each module is packed with **practical examples** and **hands-on projects** to ensure you're not just learning theory but also applying your knowledge in **real-world scenarios**. Let's get coding and bring your ideas to life! 💻🔥 -->
 
 
 ---
@@ -16,17 +16,17 @@ Each module is packed with **practical examples** and **hands-on projects** to e
 ## 🎓 **Your Learning Path Starts Here!**
 
 
-This challenge is built around **Microsoft Learn's Web Development Fundamentals Collection**—a series of interactive tutorials and hands-on exercises. You’ll gain real-time guidance, enhance your understanding, and apply what you learn to real projects.
+This challenge is built around **Microsoft Learn's Web Development Fundamentals Lesson Plan**—a series of interactive tutorials and hands-on exercises. You’ll gain real-time guidance, enhance your understanding, and apply what you learn to real projects.
 
 
 🔗 **[Begin the Journey: Microsoft Learn Web Development Collection](https://learn.microsoft.com/plans/o3ppsdnmr5oe32?wt.mc_id=studentamb_412650)**
 
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://learn.microsoft.com/plans/o3ppsdnmr5oe32?wt.mc_id=studentamb_412650">
     <img src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=2020&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Microsoft Learn Collection Banner" style="max-width: 100%; height: auto;">
   </a>
-</div>
+</div> -->
 
 
 ---
@@ -40,10 +40,10 @@ Jumpstart your web development skills by mastering the fundamentals of HTML, CSS
 
 | **Topic**                 | **Description**                                                     | **Resource Link**                                                                  |
 |---------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| **HTML & CSS Basics**     | Learn to build simple, beautiful web pages with HTML and CSS.       | [Start Learning HTML & CSS](https://learn.microsoft.com/en-us/training/modules/build-simple-website/) |
-| **JavaScript Fundamentals**| Add interactivity to your sites with JavaScript.                   | [Learn JavaScript Basics](https://learn.microsoft.com/en-us/training/paths/web-development-101/)|
-| **Responsive Web Design** | Make your websites mobile-friendly using responsive techniques.     | [Watch Responsive Wed Design](https://learn.microsoft.com/en-us/shows/visual-studio-connect-event-2014/814) |
-| **Working with Forms**    | Build dynamic forms that collect and process user data efficiently. | [Study Basic Forms](https://www.freecodecamp.org/news/how-to-use-html-forms/) |
+| **HTML & CSS Basics**     | Learn to build simple, beautiful web pages with HTML and CSS.       | [Start Learning HTML & CSS](https://learn.microsoft.com/training/modules/build-simple-website/?wt.mc_id=studentamb_412650) |
+| **JavaScript Fundamentals**| Add interactivity to your sites with JavaScript.                   | [Learn JavaScript Basics](https://learn.microsoft.com/training/paths/web-development-101/?wt.mc_id=studentamb_412650)|
+| **Responsive Web Design** | Make your websites mobile-friendly using responsive techniques.     | [Watch Responsive Wed Design](https://learn.microsoft.com/shows/visual-studio-connect-event-2014/814/?wt.mc_id=studentamb_412650) |
+| **Working with Forms**    | Build dynamic forms that collect and process user data efficiently. | [Study Basic Forms](https://www.freecodecamp.org/news/how-to-use-html-forms) |
 | **CSS Flexbox & Grid**    | Master advanced layouts with Flexbox and Grid.                      | [Read Flexbox](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/bg124109(v=vs.85)) & [Read CSS Grid](https://learn.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/css/grid) |
 
 
@@ -58,15 +58,15 @@ Ready to move beyond the frontend? Learn how to create and secure powerful web a
 
 | **Topic**                 | **Description**                                                     | **Resource Link**                                                                  |
 |---------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| **Node.js Basics**            | Start building backend applications with Node.js.                   | [Introduction to Node.js](https://learn.microsoft.com/en-us/training/modules/intro-to-nodejs/) |
-| **Building APIs with Node.js**  | Discover how to create a web API using Node.js and Express.        | [Node.js API Development](https://learn.microsoft.com/en-us/training/modules/build-web-api-nodejs-express/) |
-| **Working with Databases**    | Build a basic cloud-native service using PostgreSQL and Node.js        | [Database Integration](https://learn.microsoft.com/en-us/training/modules/cloud-native-build-basic-service/) |
-| **Route management in Node.js**  | Learn how to set up a Node.js API with multiple routes.          | [Route management](https://learn.microsoft.com/en-us/training/modules/node-web-routes/) |
+| **Node.js Basics**            | Start building backend applications with Node.js.                   | [Introduction to Node.js](https://learn.microsoft.com/training/modules/intro-to-nodejs/?wt.mc_id=studentamb_412650) |
+| **Building APIs with Node.js**  | Discover how to create a web API using Node.js and Express.        | [Node.js API Development](https://learn.microsoft.com/training/modules/build-web-api-nodejs-express/?wt.mc_id=studentamb_412650) |
+| **Working with Databases**    | Build a basic cloud-native service using PostgreSQL and Node.js        | [Database Integration](https://learn.microsoft.com/training/modules/cloud-native-build-basic-service/?wt.mc_id=studentamb_412650) |
+| **Route management in Node.js**  | Learn how to set up a Node.js API with multiple routes.          | [Route management](https://learn.microsoft.com/training/modules/node-web-routes/?wt.mc_id=studentamb_412650) |
 
 
 ---
 
-
+<!--
 ## 📖 **Additional Resources**
 
 
@@ -75,14 +75,14 @@ Supplement your learning journey with these essential tools and concepts, perfec
 
 | **Topic**                 | **Description**                                                     | **Resource Link**                                                                  |
 |---------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| **Git & GitHub Basics**    | Manage your code with version control using Git and GitHub.         | [Learn Git & GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) |
-| **Fundamentals of Responsible Generative AI**        | Describe an overall process for responsible generative AI  | [Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/) |
+| **Git & GitHub Basics**    | Manage your code with version control using Git and GitHub.         | [Learn Git & GitHub](https://learn.microsoft.com/training/modules/introduction-to-github/?wt.mc_id=studentamb_412650) |
+| **Fundamentals of Responsible Generative AI**        | Describe an overall process for responsible generative AI  | [Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/?wt.mc_id=studentamb_412650) |
 | **Web Accessibility**      | Ensure your web apps are accessible to all users.                   | [Web Accessibility Guide](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/) |
 | **Performance Optimization**| Learn how to enhance the speed and performance of your web apps.    | [Optimize Performance](https://web.dev/learn/performance/) |
 
 
 ---
-
+-->
 
 ## 🚀 **FreeCodeCamp**
 
