@@ -59,7 +59,7 @@ You can choose between two learning modes based on your preference:
 - **Documentation & Resources**: Explore [detailed resources](./Documentation/README.md) provided in the **Documentation** folder, including tutorials, articles, and various learning resorces to help you in your career.
  
 ### **Synchronous Track**:
-- **Live Coding Sessions**: Attend live coding sessions and workshops via **Microsoft Teams** for interactive learning with real-time feedback. Participate in Q&A sessions, coding challenges, and peer reviews.
+- **Live Coding Sessions**: Attend live coding sessions and workshops via **Microsoft Teams** for interactive learning with real-time feedback. <!-- Participate in Q&A sessions, coding challenges, and peer reviews. -->
 - **Study Groups**: Collaborate with fellow learners in group study sessions to share knowledge and solve coding challenges together.
 
 <!--
