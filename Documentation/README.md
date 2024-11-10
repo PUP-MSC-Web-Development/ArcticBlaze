@@ -4,7 +4,7 @@
   <img src="../assets/documentation banner.png" alt="Banner Placeholder - Welcome Image">
 </div>
 
-Welcome to the Documentation Hub for **ArcticBlaze**! Here, you'll find a well-curated collection of resources from **Microsoft Learn** and other valuable materials designed to enhance your skills in both **frontend** and **backend development**. This challenge is designed to help you build a solid foundation in web development. Ready to dive in? Follow the structured learning path and make the most out of this journey! 🚀
+Welcome to the Documentation Hub for **ArcticBlaze**! Here, you'll find a well-curated collection of resources from **Microsoft Learn** and other valuable materials designed to enhance your skills in both **frontend** and **backend development**. These resources are designed to help you build a solid foundation in web development. Ready to dive in? Follow the structured learning path and make the most out of this journey! 🚀
 
 
 <!-- Each module is packed with **practical examples** and **hands-on projects** to ensure you're not just learning theory but also applying your knowledge in **real-world scenarios**. Let's get coding and bring your ideas to life! 💻🔥 -->
@@ -16,7 +16,7 @@ Welcome to the Documentation Hub for **ArcticBlaze**! Here, you'll find a well-c
 ## 🎓 **Your Learning Path Starts Here!**
 
 
-This challenge is built around **Microsoft Learn's Web Development Fundamentals Lesson Plan**—a series of interactive tutorials and hands-on exercises. You’ll gain real-time guidance, enhance your understanding, and apply what you learn to real projects.
+Our lesson plan revolves around **Microsoft Learn's Web Development Fundamentals Lesson Path**—a series of interactive tutorials and hands-on exercises. You’ll gain real-time guidance, enhance your understanding, and apply what you learn to real projects.
 
 
 🔗 **[Begin the Journey: Microsoft Learn Web Development Collection](https://learn.microsoft.com/plans/o3ppsdnmr5oe32?wt.mc_id=studentamb_412650)**
@@ -30,7 +30,7 @@ This challenge is built around **Microsoft Learn's Web Development Fundamentals 
 
 
 ---
-
+# 📖 **Additional Resources**
 
 ## 🖥️ **Frontend Development**
 
@@ -127,5 +127,5 @@ If ever you missed a study session, you can watch them on our [**Documented Reco
 
 ## 🎉 **Happy Learning!**
 
-Remember, this is a continuous journey of growth and learning. If you need any help, feel free to reach out to the team leads or participate in our study sessions. 
+Remember, this is a continuous journey of growth and learning. If you need any help, feel free to reach out to the team leads or participate in our synchronous sessions. 
 
